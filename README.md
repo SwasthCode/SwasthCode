@@ -1,9 +1,9 @@
 <h1 align="center">Hi :wave:, I'm Swashtika</br> Full-Stack Developer </br> [ Web ]</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
-<p align="center" > <img src="https://komarev.com/ghpvc/?username=SwasthCode&label=Profile%20views&color=0e75b6&style=flat" alt="the-anshu-dev" /> </p>
+<p align="center" > <img src="https://komarev.com/ghpvc/?username=SwasthCode&label=Profile%20views&color=0e75b6&style=flat" alt="SwasthCode" /> </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=the-anshu-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-anshu-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SwasthCode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SwasthCode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <h3 align="left">Projects : </h3>
 <ul>
@@ -77,7 +77,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
 </div>
 ###
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-anshu-dev" alt="the-anshu-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SwasthCode" alt="SwasthCode" /></a> </p>
 <br clear="both">
-<img src="https://raw.githubusercontent.com/the-anshu-dev/the-anshu-dev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SwasthCode/SwasthCode/output/snake.svg" alt="Snake animation" />
 ###
