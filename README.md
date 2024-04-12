@@ -6,15 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SwasthCode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <h3 align="left">Projects : </h3>
-<ul>
-    <li>ePosting</li>
-    <li>Advertisment_Sell</li>
-    <li>Google_meet</li>
-    <li>Login with Twitter</li>
-    <li>Metamask</li>
-     <li>Carlos App</li>
-    <li color="red">Silence_App[working] </li>
-</ul>
+
 <!-- <h2 align="left">Hi :wave:! My name is Anshu Chaurasia, Full-Stack Developer [ Web + Android ]</h2> -->
 ###
 ###
