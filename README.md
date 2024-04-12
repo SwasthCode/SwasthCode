@@ -1,6 +1,6 @@
 <h1 align="center">Hi :wave:, I'm Swashtika</br> Full-Stack Developer </br> [ Web ]</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
-<p align="center" > <img src="https://komarev.com/ghpvc/?username=the-anshu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="the-anshu-dev" /> </p>
+<p align="center" > <img src="https://komarev.com/ghpvc/?username=SwasthCode&label=Profile%20views&color=0e75b6&style=flat" alt="the-anshu-dev" /> </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=the-anshu-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-anshu-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
